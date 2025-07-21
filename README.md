@@ -19,23 +19,5 @@ This repository contains the internship project completed as part of the **Cyber
 - Demonstrate password recovery using example hashes  
 - Promote awareness on secure password practices  
 
----
 
-## 🛠 Tools & Environment
 
-- **OS:** Kali Linux  
-- **Tool:** Hashcat v6.x  
-- **Wordlist:** rockyou.txt  
-- **Hash Algorithm:** MD5  
-- **Shell:** Bash, md5sum utility
-
----
-
-## 🚀 Attack Demonstrations
-
-### 📘 Dictionary Attack Example
-
-- **Password:** `dragon`  
-- **Command:**  
-  ```bash
-  hashcat -m 0 -a 0 hashes.txt rockyou.txt
