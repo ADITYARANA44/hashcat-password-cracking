@@ -1,6 +1,6 @@
 # 🔐 Hashcat Password Cracking – IIT Jammu Internship Project
 
-This repository contains the internship project completed as part of the **Cybersecurity Summer Internship** at **IIT Jammu**. The project demonstrates ethical password cracking techniques using **https://hashcat.net/hashcat/**, focusing on dictionary and brute-force attacks.
+This repository contains the internship project completed as part of the **Cybersecurity Summer Internship** at **IIT Jammu**. The project demonstrates ethical password cracking techniques using **Hashcat**, focusing on dictionary and brute-force attacks.
 
 ---
 
